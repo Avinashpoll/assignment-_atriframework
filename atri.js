@@ -1,0 +1,5 @@
+
+    Atri.modal({
+      target: '#modal'
+    });
+  
